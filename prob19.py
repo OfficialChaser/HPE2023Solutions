@@ -1,3 +1,5 @@
+### INCOMPLETE PROBLEM ###
+
 word = input()
 size = int(input())
 
